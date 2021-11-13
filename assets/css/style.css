@@ -58,19 +58,19 @@ img {
 .header{
     display: flex;
     justify-content:space-between;
-    align-items: center;   
+    align-items: center;       
 }
 
-.menu ul {
-    display: flex;    
+.menu ul{
+    display:flex;  
 }
 
-.menu ul li a {
+.menu ul li a{
     text-transform:capitalize;
     margin-left: 20px;
 }
 
-.menu ul li a:hover {
+.menu ul li a:hover{
     color: rgb(241, 121, 8);
 }
 
