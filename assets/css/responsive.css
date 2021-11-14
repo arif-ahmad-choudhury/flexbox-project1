@@ -42,7 +42,6 @@
     .area {
         width: 750px;
     }
-
     .logo {
         width: 180px;
     }
@@ -55,12 +54,10 @@
     .menu ul li a {
         padding: 10px;
     }
-
     .single-service {
         width: 240px;
         margin-bottom: 15px;
     }
-
     .single-service h2 {
         font-size: 20px;
         text-transform: capitalize;
