@@ -60,27 +60,22 @@ img {
     justify-content:space-between;
     align-items: center;       
 }
-
 .menu ul{
     display:flex;  
 }
-
 .menu ul li a{
     text-transform:capitalize;
     margin-left: 20px;
 }
-
 .menu ul li a:hover{
     color: rgb(241, 121, 8);
 }
-
 .banner-area img {
     width: 100%;
     border: 2px solid #ddd;
     padding: 3px;
     border-radius: 5px;
 }
-
 .about-area {
     padding: 20px 0;
 }
