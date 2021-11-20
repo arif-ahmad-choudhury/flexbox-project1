@@ -105,7 +105,7 @@ img {
     text-transform: capitalize;
     margin: 20px 0;
 }
-.service-box {
+.service{
     display: grid;
     grid-template-columns: repeat(3, auto);
     column-gap: 40px;
