@@ -87,10 +87,12 @@ img {
     text-align: center;  
 }
 
+
 .single-about {
     text-align: center;
     border: 1px solid #f2f2f2;
     padding: 40px 20px;
+    margin-right: 20px;
 }
 .single-about i {
     font-size: 26px;
