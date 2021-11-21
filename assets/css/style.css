@@ -178,15 +178,19 @@ font-weight: bold;
     height: 40px;
     line-height: 40px;
     border-radius:50%;
+    margin-right: 10px;
 }
-.single-address h4{
-    font: size 22px;
+.single-address p{
+    font: size 20px;
     text-transform: capitalize;
+    margin-right: 30px;
+
 }
-.single-address h4 span{
-    display: block;
+.single-address p span{
+    display:block;
     font-weight: normal;
     font-size: 16px;
+    margin-bottom: 30px;
 }
 .footer-area{
     text-align: center;
