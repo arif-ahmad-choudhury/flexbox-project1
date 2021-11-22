@@ -180,6 +180,9 @@ font-weight: bold;
     border-radius:50%;
     margin-right: 10px;
 }
+.single-address i:hover{
+    background-color:antiquewhite;
+}
 .single-address p{
     font: size 20px;
     text-transform: capitalize;
