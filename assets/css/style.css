@@ -102,6 +102,9 @@ img {
     line-height: 60px;
     border-radius: 50%;
 }
+.single-about i:hover{
+    background-color:blanchedalmond;
+}
 .single-about h2{
     font-size: 26px;
     text-transform: capitalize;
