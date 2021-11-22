@@ -26,7 +26,6 @@
     .about-menu {
         width: 255px;
     }
-
     .about-left h2,
     .about-menu h2 {
         font-size: 26px;
@@ -35,7 +34,6 @@
         width: 135px;
     }
 }
-
 /* checking 800 */
 @media only screen and (min-width: 768px) and (max-width: 991px) {
     .area {
@@ -90,7 +88,6 @@
     .menu ul {
         text-align: left;
     }    
-
     .single-service {
         width: 100%;
         margin-bottom: 30px;
